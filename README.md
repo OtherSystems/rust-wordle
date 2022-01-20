@@ -1,7 +1,9 @@
 # rust-wordle
-wordle terminal game implemented in rust by @robertkingNZ
+wordle terminal game implemented in rust by @robertkingNZ 
 
-See the video of the making here: https://youtu.be/VzEEQMBwzt4
+Modified by Sebastian to be insync with the online version.
+
+See the original video of the making here: https://youtu.be/VzEEQMBwzt4
 
 To play locally, clone the repo and then type "cargo run".
 
